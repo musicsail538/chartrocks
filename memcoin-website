@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> canfullofrocks 🚀</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+      color: #222;
+      text-align: center;
+    }
+    header {
+      padding: 3rem 1rem;
+    }
+    header h1 {
+      font-size: 3rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: .5rem;
+    }
+    section {
+      padding: 3rem 1rem;
+    }
+    .card {
+      background: white;
+      padding: 1.5rem;
+      margin: 1rem auto;
+      max-width: 600px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.8rem 1.5rem;
+      background: #ff4b5c;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 10px;
+      transition: background .2s;
+    }
+    a.button:hover {
+      background: #e63946;
+    }
+    footer {
+      padding: 2rem;
+      background: #222;
+      color: white;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🚀 My MemeCoin 🚀</h1>
+    <p>The future of memes is here.</p>
+    <a href="#buy" class="button">Buy Now</a>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>About canofrocks</h2>
+      <p>canofrocks was born for the culture, powered by the community, and fueled by memes. Join us on this wild ride to the moon 🌕.</p>
+    </div>
+
+    <div class="card">
+      <h2>Tokenomics</h2>
+      <p>Total Supply: 1,000,000,000,000 $MEME</p>
+      <p>70% Community | 30% Liquidity | 0% Development</p>
+    </div>
+
+    <div class="card" id="buy">
+      <h2>How to Buy</h2>
+      <p>1. Install phantom<br>
+         2. Connect to pumpfun<br>
+         3. Swap SOL for $ROCKS 🚀</p>
+      <a href="https://pump.fun/board"class="button" target="_blank">pump.fun</a>
+    </div>
+
+    <div class="card">
+      <h2>Roadmap</h2>
+      <p>✅ Phase 1: Launch<br>
+         ✅ Phase 2: Meme Takeover<br>
+         🚀 Phase 3: Moon<br>
+         🌌 Phase 4: Mars</p>
+    </div>
+
+    <div class="card">
+      <h2>Community</h2>
+      <p>Join the movement:</p>
+      <p>
+        <a href="https://x.com/i/communities/1957209303284424909/ target="_blank">Twitter</a> |
+        <a href="#" target="_blank">Telegram</a> |
+        <a href="#" target="_blank">Discord</a>
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Live Chart</h2>
+      <iframe src="https://www.dextools.io" width="100%" height="400" style="border:none;border-radius:10px;"></iframe>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 MemeCoin. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
