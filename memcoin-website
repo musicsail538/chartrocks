@@ -59,6 +59,7 @@
 <body>
 
   <header>
+    <img src="rocks.png" alt="My MemeCoin Logo" width="150">    
     <h1>🚀 My MemeCoin 🚀</h1>
     <p>The future of memes is here.</p>
     <a href="#buy" class="button">Buy Now</a>
